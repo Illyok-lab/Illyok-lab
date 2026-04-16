@@ -13,6 +13,3 @@ estudante de Análise e Desenvolvimento de Sistemas (ADS)<br>Sou um entusiasta d
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Illyok-lab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Illyok-lab&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
