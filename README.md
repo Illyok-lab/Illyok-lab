@@ -10,6 +10,3 @@ estudante de Análise e Desenvolvimento de Sistemas (ADS)<br>Sou um entusiasta d
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Illyok-lab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Illyok-lab&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Illyok-lab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
